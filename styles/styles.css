@@ -11,13 +11,11 @@ body {
   width: 50%;
   position: relative;
   float: left;
-  clear: both;
 }
 .sidebar-box {
   width: 40%;
   position: relative;
   float: right;
-  clear: both;
 }
 .container {
   margin: 0 auto;
