@@ -9,29 +9,21 @@ body {
 }
 .content-box {
   width: 50%;
-  height: 50%;
   position: relative;
-  margin: 0 auto;
   float: left;
   clear: both;
-  overflow: hidden;
-  padding-right: 10px;
 }
 .sidebar-box {
   width: 40%;
-  height: 50%;
-  margin: 0 auto;
   position: relative;
   float: right;
   clear: both;
-  overflow: hidden;
-  padding-left: 10px;
 }
 .container {
   margin: 0 auto;
   max-width: 1000px;
   border: 1rem;
-  padding: 1rem;
+  padding: 1%;
 }
 footer {
   background-color: dimgray;
