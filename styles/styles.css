@@ -22,11 +22,10 @@ body {
   max-width: 1000px;
   padding: 1rem;
 }
-footer {
+.footer {
   background-color: dimgray;
   color: white;
   text-align: center;
-  position: relative;
   font-size: 14px;
   font-kerning: normal;
   line-height: 1.6;
