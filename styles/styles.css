@@ -23,8 +23,6 @@ body {
 .container {
   margin: 0 auto;
   max-width: 1000px;
-  padding: 0 30px;
-  border: 0 auto;
   padding: 25px;
 }
 .footer {
